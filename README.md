@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chess AI
 
 This a very basic chess game with an ai implementation using the minimax algorithm; built in python and pygame.
@@ -32,3 +33,6 @@ https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning - Alpha-Beta pruning
 https://en.wikipedia.org/wiki/Stockfish_(chess) - How does Stockfish do it?
 
 Forked from https://github.com/apostolisv/chess-ai
+=======
+# ai_chess
+>>>>>>> 83aec44a15ae42a89b68359d6b08b2c5be1c0464
